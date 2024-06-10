@@ -12,7 +12,7 @@ I'm a Computer Science student at the University of Birmingham, passionate about
 ## 🛠️ Technologies & Tools
 - **Programming Languages**: C#, C, Python, JavaScript, TypeScript, Java, Dart, SQL
 - **Frameworks & Libraries**: .NET, React, Angular, Next.js, and more...
-- **Tools & Platforms**: Git, Docker, Azure, VS Code, Jetbrains IDEs
+- **Tools & Platforms**: Git, Docker, Azure, VS Code, Jetbrains IDEs, Linux 
 
 ## 📈 GitHub Stats
 ![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmuird&show_icons=true&theme=radical)
