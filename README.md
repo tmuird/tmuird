@@ -15,6 +15,5 @@ I'm a Computer Science student at the University of Birmingham, passionate about
 - **Tools & Platforms**: Git, Docker, Azure, VS Code, Jetbrains IDEs, Linux 
 
 ## 📈 GitHub Stats
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmuird&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tmuird&layout=compact&theme=radical)
 
